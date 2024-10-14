@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Lenovo",
+        "type": "Ideapad Slim 3",
+        "description": "Intel Core i5 10th Gen, 8GB RAM, 256GB SSD, Windows 11 Pro, Intel Iris Xe Graphics",
+        "price": 8299000
+    },
+    {
+        "id": 2,
+        "name": "Dell",
+        "type": "Inspiron 15",
+        "description": "AMD Ryzen 5 3500U, 8GB RAM, 512GB SSD, Windows 10, Radeon Vega 8 Graphics",
+        "price": 7499000
+    },
+    {
+        "id": 3,
+        "name": "HP",
+        "type": "Pavilion 14",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 512GB SSD, Windows 10 Home, Intel Iris Xe Graphics",
+        "price": 13999000
+    },
+    {
+        "id": 4,
+        "name": "Asus",
+        "type": "VivoBook 14",
+        "description": "Intel Core i3 10th Gen, 4GB RAM, 256GB SSD, Windows 10 Home, Intel UHD Graphics",
+        "price": 5999000
+    },
+    {
+        "id": 5,
+        "name": "Acer",
+        "type": "Aspire 5",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 10 Home, Intel Iris Xe Graphics",
+        "price": 8999000
+    },
+    {
+        "id": 6,
+        "name": "Apple",
+        "type": "MacBook Air M1",
+        "description": "Apple M1 Chip, 8GB RAM, 256GB SSD, macOS, Retina Display",
+        "price": 14999000
+    },
+    {
+        "id": 7,
+        "name": "MSI",
+        "type": "Modern 14",
+        "description": "Intel Core i7 10th Gen, 16GB RAM, 512GB SSD, Windows 10 Home, NVIDIA MX250",
+        "price": 13499000
+    },
+    {
+        "id": 8,
+        "name": "Lenovo",
+        "type": "ThinkPad X1 Carbon",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 1TB SSD, Windows 11 Pro, Intel Iris Xe Graphics",
+        "price": 23999000
+    },
+    {
+        "id": 9,
+        "name": "HP",
+        "type": "Omen 15",
+        "description": "AMD Ryzen 7 4800H, 16GB RAM, 1TB SSD, Windows 10 Home, NVIDIA GTX 1660 Ti",
+        "price": 16999000
+    },
+    {
+        "id": 10,
+        "name": "Asus",
+        "type": "ROG Strix G15",
+        "description": "AMD Ryzen 9 5900HX, 32GB RAM, 1TB SSD, Windows 11, NVIDIA RTX 3070",
+        "price": 29999000
+    },
+    {
+        "id": 11,
+        "name": "Acer",
+        "type": "Predator Helios 300",
+        "description": "Intel Core i7 10th Gen, 16GB RAM, 512GB SSD, Windows 10 Home, NVIDIA RTX 2060",
+        "price": 19999000
+    },
+    {
+        "id": 12,
+        "name": "Dell",
+        "type": "XPS 13",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 11 Pro, Intel Iris Xe Graphics",
+        "price": 19999000
+    },
+    {
+        "id": 13,
+        "name": "Lenovo",
+        "type": "Legion 5 Pro",
+        "description": "AMD Ryzen 7 5800H, 16GB RAM, 512GB SSD, Windows 10, NVIDIA RTX 3060",
+        "price": 19999000
+    },
+    {
+        "id": 14,
+        "name": "HP",
+        "type": "Envy 13",
+        "description": "Intel Core i7 10th Gen, 8GB RAM, 512GB SSD, Windows 10, NVIDIA MX350",
+        "price": 14999000
+    },
+    {
+        "id": 15,
+        "name": "Asus",
+        "type": "TUF Gaming F15",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 10, NVIDIA GTX 1650",
+        "price": 12999000
+    },
+    {
+        "id": 16,
+        "name": "Apple",
+        "type": "MacBook Pro M1",
+        "description": "Apple M1 Chip, 16GB RAM, 512GB SSD, macOS, Retina Display",
+        "price": 23999000
+    },
+    {
+        "id": 17,
+        "name": "MSI",
+        "type": "GF63 Thin",
+        "description": "Intel Core i7 9th Gen, 16GB RAM, 512GB SSD, Windows 10 Home, NVIDIA GTX 1650",
+        "price": 13999000
+    },
+    {
+        "id": 18,
+        "name": "Acer",
+        "type": "Swift 3",
+        "description": "AMD Ryzen 7 4700U, 8GB RAM, 512GB SSD, Windows 10 Home, Radeon Graphics",
+        "price": 8999000
+    },
+    {
+        "id": 19,
+        "name": "Lenovo",
+        "type": "Yoga Slim 7",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 512GB SSD, Windows 10, Intel Iris Xe Graphics",
+        "price": 12999000
+    },
+    {
+        "id": 20,
+        "name": "HP",
+        "type": "Spectre x360",
+        "description": "Intel Core i7 10th Gen, 16GB RAM, 1TB SSD, Windows 10 Home, Intel UHD Graphics",
+        "price": 22999000
+    },
+    {
+        "id": 21,
+        "name": "Dell",
+        "type": "G5 15",
+        "description": "Intel Core i7 9th Gen, 16GB RAM, 512GB SSD, Windows 10 Home, NVIDIA GTX 1660 Ti",
+        "price": 15999000
+    },
+    {
+        "id": 22,
+        "name": "Asus",
+        "type": "ZenBook 14",
+        "description": "AMD Ryzen 5 4500U, 8GB RAM, 512GB SSD, Windows 10 Home, Radeon Graphics",
+        "price": 12999000
+    },
+    {
+        "id": 23,
+        "name": "Acer",
+        "type": "Nitro 5",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 10 Home, NVIDIA GTX 1650",
+        "price": 12999000
+    },
+    {
+        "id": 24,
+        "name": "MSI",
+        "type": "Bravo 15",
+        "description": "AMD Ryzen 7 4800H, 16GB RAM, 512GB SSD, Windows 10, Radeon RX 5500M",
+        "price": 14999000
+    },
+    {
+        "id": 25,
+        "name": "Apple",
+        "type": "MacBook Air M2",
+        "description": "Apple M2 Chip, 8GB RAM, 512GB SSD, macOS, Retina Display",
+        "price": 17999000
+    },
+    {
+        "id": 26,
+        "name": "HP",
+        "type": "Pavilion Gaming 15",
+        "description": "AMD Ryzen 5 4600H, 8GB RAM, 512GB SSD, Windows 10, NVIDIA GTX 1650",
+        "price": 12999000
+    },
+    {
+        "id": 27,
+        "name": "Lenovo",
+        "type": "IdeaPad Gaming 3",
+        "description": "AMD Ryzen 5 5600H, 8GB RAM, 512GB SSD, Windows 11, NVIDIA GTX 1650",
+        "price": 10999000
+    },
+    {
+        "id": 28,
+        "name": "Dell",
+        "type": "Alienware M15",
+        "description": "Intel Core i9 10th Gen, 32GB RAM, 1TB SSD, Windows 10 Home, NVIDIA RTX 2080",
+        "price": 39999000
+    },
+    {
+        "id": 29,
+        "name": "Acer",
+        "type": "Aspire 7",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 10, NVIDIA GTX 1650",
+        "price": 11999000
+    },
+    {
+        "id": 30,
+        "name": "Asus",
+        "type": "ExpertBook B9",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 1TB SSD, Windows 11, Intel Iris Xe Graphics",
+        "price": 22999000
+    },
+    {
+        "id": 31,
+        "name": "Lenovo",
+        "type": "ThinkBook 14",
+        "description": "AMD Ryzen 5 4500U, 8GB RAM, 512GB SSD, Windows 10 Pro, Radeon Graphics",
+        "price": 9999000
+    },
+    {
+        "id": 32,
+        "name": "HP",
+        "type": "Elite Dragonfly",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 10 Pro, Intel Iris Xe Graphics",
+        "price": 19999000
+    },
+    {
+        "id": 33,
+        "name": "Apple",
+        "type": "MacBook Pro M2",
+        "description": "Apple M2 Chip, 16GB RAM, 512GB SSD, macOS, Retina Display",
+        "price": 24999000
+    },
+    {
+        "id": 34,
+        "name": "Asus",
+        "type": "Chromebook Flip",
+        "description": "Intel Core m3, 4GB RAM, 64GB eMMC, Chrome OS, Intel UHD Graphics",
+        "price": 4999000
+    },
+    {
+        "id": 35,
+        "name": "Dell",
+        "type": "Latitude 14",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 1TB SSD, Windows 10 Pro, Intel Iris Xe Graphics",
+        "price": 21999000
+    },
+    {
+        "id": 36,
+        "name": "HP",
+        "type": "ProBook 440 G8",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 10 Pro, Intel Iris Xe Graphics",
+        "price": 14999000
+    },
+    {
+        "id": 37,
+        "name": "Lenovo",
+        "type": "IdeaPad Flex 5",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 11, Intel Iris Xe Graphics",
+        "price": 9999000
+    },
+    {
+        "id": 38,
+        "name": "Acer",
+        "type": "TravelMate P2",
+        "description": "Intel Core i3 10th Gen, 4GB RAM, 256GB SSD, Windows 10 Pro, Intel UHD Graphics",
+        "price": 5999000
+    },
+    {
+        "id": 39,
+        "name": "MSI",
+        "type": "Prestige 14",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 1TB SSD, Windows 11, Intel Iris Xe Graphics",
+        "price": 17999000
+    },
+    {
+        "id": 40,
+        "name": "Apple",
+        "type": "MacBook Pro 16",
+        "description": "Intel Core i9, 32GB RAM, 1TB SSD, macOS, Retina Display",
+        "price": 39999000
+    },
+    {
+        "id": 41,
+        "name": "Dell",
+        "type": "Vostro 14",
+        "description": "Intel Core i5 10th Gen, 8GB RAM, 512GB SSD, Windows 10 Pro, Intel UHD Graphics",
+        "price": 8999000
+    },
+    {
+        "id": 42,
+        "name": "HP",
+        "type": "ZBook Firefly 14",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 512GB SSD, Windows 10 Pro, NVIDIA Quadro T500",
+        "price": 19999000
+    },
+    {
+        "id": 43,
+        "name": "Asus",
+        "type": "ZenBook Duo 14",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 1TB SSD, Windows 10, NVIDIA MX450",
+        "price": 24999000
+    },
+    {
+        "id": 44,
+        "name": "Lenovo",
+        "type": "ThinkPad T14s",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 1TB SSD, Windows 10 Pro, Intel Iris Xe Graphics",
+        "price": 21999000
+    },
+    {
+        "id": 45,
+        "name": "Acer",
+        "type": "Spin 5",
+        "description": "Intel Core i5 10th Gen, 8GB RAM, 512GB SSD, Windows 10 Home, Intel Iris Plus Graphics",
+        "price": 14999000
+    },
+    {
+        "id": 46,
+        "name": "HP",
+        "type": "Chromebook 14",
+        "description": "Intel Celeron N4000, 4GB RAM, 64GB eMMC, Chrome OS, Intel UHD Graphics 600",
+        "price": 3499000
+    },
+    {
+        "id": 47,
+        "name": "Apple",
+        "type": "MacBook Air M3",
+        "description": "Apple M3 Chip, 8GB RAM, 512GB SSD, macOS, Retina Display",
+        "price": 19999000
+    },
+    {
+        "id": 48,
+        "name": "Asus",
+        "type": "ExpertBook B1",
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, Windows 11 Pro, Intel Iris Xe Graphics",
+        "price": 9999000
+    },
+    {
+        "id": 49,
+        "name": "Dell",
+        "type": "Precision 7550",
+        "description": "Intel Core i9 10th Gen, 32GB RAM, 1TB SSD, Windows 10 Pro, NVIDIA Quadro RTX 5000",
+        "price": 49999000
+    },
+    {
+        "id": 50,
+        "name": "MSI",
+        "type": "Stealth 15M",
+        "description": "Intel Core i7 11th Gen, 16GB RAM, 512GB SSD, Windows 10, NVIDIA RTX 3060",
+        "price": 19999000
+    }
+]
